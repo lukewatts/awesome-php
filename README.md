@@ -146,51 +146,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Phing](https://www.phing.info/) - A PHP project build system inspired by Apache Ant
 * [RMT](https://github.com/liip/RMT) - A library for versioning and releasing software
 
-### Dependency Management
-*Libraries for dependency and package management.*
-
-* [Composer Installers](https://github.com/composer/installers) - A  multi framework Composer library installer.
-* [Composer](https://getcomposer.org/) - A package and dependency manager.
-* [Phive](https://phar.io/) - A PHAR manager.
-* [Pickle](https://github.com/FriendsOfPHP/pickle) - A PHP extension installer.
-
-### Dependency Management Extras
-*Extras related to dependency management.*
-
-* [Composed](https://github.com/joshdifabio/composed) - A library to parse your project's Composer environment at runtime.
-* [Composer Merge Plugin](https://github.com/wikimedia/composer-merge-plugin) - A composer plugin to merge several `composer.json` files.
-* [Composer Normalize](https://github.com/ergebnis/composer-normalize) - A plugin for normalising `composer.json` files. 
-* [Composer Patches](https://github.com/cweagans/composer-patches) - A plugin for Composer to apply patches.
-* [Composer Require Checker](https://github.com/maglnet/ComposerRequireChecker) - CLI tool to analyze composer dependencies and verify that no unknown symbols are used in the sources of a package.
-* [Composer Unused](https://github.com/composer-unused/composer-unused) - A CLI Tool to scan for unused composer packages.
-* [Prestissimo](https://github.com/hirak/prestissimo) - A composer plugin which enables parallel install process.
-* [Repman](https://repman.io) - A private PHP package repository manager and Packagist proxy.
-* [Satis](https://github.com/composer/satis) - A static Composer repository generator.
-* [Tooly](https://github.com/tommy-muehle/tooly-composer-script) - A library to manage PHAR files in project using Composer.
-* [Toran Proxy](https://toranproxy.com) - A static Composer repository and proxy.
-
-### Frameworks
-*Web development frameworks.*
-
-* [CakePHP](https://cakephp.org/) - A rapid application development framework.
-* [Laminas](https://getlaminas.org/) - A framework comprised of individual components (previously Zend Framework).
-* [Laravel](https://laravel.com/) - A web application framework with expressive, elegant syntax.
-* [Nette](https://nette.org) - A web framework comprised of mature components.
-* [Phalcon](https://phalcon.io/en-us) - A framework implemented as a C extension.
-* [Spiral](https://spiral.dev/) - A high performance PHP/Go framework.
-* [Symfony](https://symfony.com/) - A set of reuseable components and a web framework.
-* [Yii2](https://github.com/yiisoft/yii2/) - A fast, secure, and efficient web framework.
-
-### Framework Extras
-*Extras related to web development frameworks.*
-
-* [CakePHP CRUD](https://github.com/friendsofcake/crud) - A Rapid Application Development (RAD) plugin for CakePHP.
-* [Knp RAD Components](https://rad.knplabs.com/) - A set of Rapid Application Development (RAD) components for Symfony.
-* [LaravelS](https://github.com/hhxsv5/laravel-s) - Glue for using Swoole in Laravel or Lumen.
-* [Symfony CMF](https://github.com/symfony-cmf/symfony-cmf) - A Content Management Framework to create custom CMS.
-* [Livewire](https://laravel-livewire.com/) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs
-
-
 ### Caching and Locking
 *Libraries for caching data and acquiring locks.*
 
@@ -293,6 +248,50 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Shippable](https://jfrog.com/blog/weve-acquired-shippable-to-complete-devops-pipeline-automation-from-code-to-production/) - A Docker based continious integration platform for open source and private projects.
 * [Travis CI](https://travis-ci.org/) - A continuous integration platform.
 * [Setup PHP](https://github.com/shivammathur/setup-php) - A GitHub Action for PHP
+
+### Dependency Management
+*Libraries for dependency and package management.*
+
+* [Composer Installers](https://github.com/composer/installers) - A  multi framework Composer library installer.
+* [Composer](https://getcomposer.org/) - A package and dependency manager.
+* [Phive](https://phar.io/) - A PHAR manager.
+* [Pickle](https://github.com/FriendsOfPHP/pickle) - A PHP extension installer.
+
+### Dependency Management Extras
+*Extras related to dependency management.*
+
+* [Composed](https://github.com/joshdifabio/composed) - A library to parse your project's Composer environment at runtime.
+* [Composer Merge Plugin](https://github.com/wikimedia/composer-merge-plugin) - A composer plugin to merge several `composer.json` files.
+* [Composer Normalize](https://github.com/ergebnis/composer-normalize) - A plugin for normalising `composer.json` files. 
+* [Composer Patches](https://github.com/cweagans/composer-patches) - A plugin for Composer to apply patches.
+* [Composer Require Checker](https://github.com/maglnet/ComposerRequireChecker) - CLI tool to analyze composer dependencies and verify that no unknown symbols are used in the sources of a package.
+* [Composer Unused](https://github.com/composer-unused/composer-unused) - A CLI Tool to scan for unused composer packages.
+* [Prestissimo](https://github.com/hirak/prestissimo) - A composer plugin which enables parallel install process.
+* [Repman](https://repman.io) - A private PHP package repository manager and Packagist proxy.
+* [Satis](https://github.com/composer/satis) - A static Composer repository generator.
+* [Tooly](https://github.com/tommy-muehle/tooly-composer-script) - A library to manage PHAR files in project using Composer.
+* [Toran Proxy](https://toranproxy.com) - A static Composer repository and proxy.
+
+### Frameworks
+*Web development frameworks.*
+
+* [CakePHP](https://cakephp.org/) - A rapid application development framework.
+* [Laminas](https://getlaminas.org/) - A framework comprised of individual components (previously Zend Framework).
+* [Laravel](https://laravel.com/) - A web application framework with expressive, elegant syntax.
+* [Nette](https://nette.org) - A web framework comprised of mature components.
+* [Phalcon](https://phalcon.io/en-us) - A framework implemented as a C extension.
+* [Spiral](https://spiral.dev/) - A high performance PHP/Go framework.
+* [Symfony](https://symfony.com/) - A set of reuseable components and a web framework.
+* [Yii2](https://github.com/yiisoft/yii2/) - A fast, secure, and efficient web framework.
+
+### Framework Extras
+*Extras related to web development frameworks.*
+
+* [CakePHP CRUD](https://github.com/friendsofcake/crud) - A Rapid Application Development (RAD) plugin for CakePHP.
+* [Knp RAD Components](https://rad.knplabs.com/) - A set of Rapid Application Development (RAD) components for Symfony.
+* [LaravelS](https://github.com/hhxsv5/laravel-s) - Glue for using Swoole in Laravel or Lumen.
+* [Symfony CMF](https://github.com/symfony-cmf/symfony-cmf) - A Content Management Framework to create custom CMS.
+* [Livewire](https://laravel-livewire.com/) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs
 
 ### Micro Frameworks
 *Micro frameworks and routers.*

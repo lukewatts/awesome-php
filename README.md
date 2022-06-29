@@ -204,13 +204,15 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ### Components
 *Standalone components from web development frameworks and development groups.*
 
-* [Aura](https://auraphp.com/) - Independent components, fully decoupled from each other and from any framework.
-* [CakePHP Plugins](https://plugins.cakephp.org/) - A directory of CakePHP plugins.
-* [Laravel Components](https://github.com/illuminate) - The Laravel Framework components.
-* [League of Extraordinary Packages](https://thephpleague.com/) - A PHP package development group.
-* [Spatie Open Source](https://spatie.be/open-source) - A collection of open source PHP and Laravel packages.
-* [Symfony Components](https://symfony.com/components) - The components that make Symfony.
-* [Laminas Components](https://docs.laminas.dev/components/) - The components that make the Laminas Framework.
+* [Aura](https://auraphp.com/) - Independent components, fully decoupled from each other and from any framework
+* [CakePHP Plugins](https://plugins.cakephp.org/) - A directory of CakePHP plugins
+* [Hoa Project](https://github.com/hoaproject) - (ARCHIVED) Archived, but still some really cool components here
+* [League of Extraordinary Packages](https://thephpleague.com/) - A PHP package development group
+* [Laminas Components](https://docs.laminas.dev/components/) - The components that make the Laminas Framework
+* [Laravel Components](https://github.com/illuminate) - The Laravel Framework components
+* [Nette Components](https://github.com/nette/) - The Nette Foundation components
+* [Spatie Open Source](https://spatie.be/open-source) - A collection of open source PHP and Laravel packages
+* [Symfony Components](https://symfony.com/components) - The components that make Symfony
 
 ### Composer Repositories
 *Composer Repositories.*

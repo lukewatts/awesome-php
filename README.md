@@ -1,4 +1,4 @@
-# Awesome PHP ![](https://github.com/ziadoz/awesome-php/workflows/Awesome%20Bot/badge.svg)
+# Awesome PHP
 
 A curated list of amazingly awesome PHP libraries, resources and shiny things.
 

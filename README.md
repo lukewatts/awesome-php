@@ -277,7 +277,8 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ### Frameworks
 *Web development frameworks.*
 
-* [CakePHP](https://cakephp.org/) - A rapid application development framework.
+* [CakePHP](https://cakephp.org/) - A rapid application development framework
+* [Ice Frameowkr](https://www.iceframework.org/) - PHP Framework as a C-Extension
 * [Laminas](https://getlaminas.org/) - A framework comprised of individual components (previously Zend Framework).
 * [Laravel](https://laravel.com/) - A web application framework with expressive, elegant syntax.
 * [Nette](https://nette.org) - A web framework comprised of mature components.
@@ -298,9 +299,11 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ### Micro Frameworks
 *Micro frameworks and routers.*
 
+* [BulletPHP]()
 * [Laravel-Zero](https://laravel-zero.com) - A micro-framework for console applications.
 * [Lumen](https://lumen.laravel.com/) - A micro-framework by Laravel.
-* [Mezzio](https://getexpressive.org/) - A micro-framework by Laminas.
+* [Mezzio](https://getexpressive.org/) - A micro-framework by Laminas
+* [Proton](https://github.com/kraugar/Proton) - Microframework built on Orno/Route, Orni/DI and League/Event
 * [Radar](https://github.com/radarphp/Radar.Adr) - An Action-Domain-Responder implementation for PHP.
 * [Silly](https://github.com/mnapoli/silly) - A micro-framework for CLI applications.
 * [Slim](https://www.slimframework.com/) - Another simple micro framework.

@@ -597,7 +597,8 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Event](https://github.com/thephpleague/event) - An event library with a focus on domain events.
 * [Pawl](https://github.com/ratchetphp/Pawl) - An asynchronous web socket client.
 * [Prooph Event Store](https://github.com/prooph/event-store) - An event source component to persist event messages
-* [PHP Defer](https://github.com/php-defer/php-defer) - Golang's defer statement for PHP.
+* [PHP Defer](https://github.com/php-defer/php-defer) - Golang's defer statement for PHP
+* [Phly Event](https://github.com/phly/phly-event-dispatcher) - Event Dispatcher
 * [Ratchet](https://github.com/ratchetphp/Ratchet) - A web socket library.
 * [ReactPHP](https://github.com/reactphp/reactphp) - An event driven non-blocking I/O library.
 * [RxPHP](https://github.com/ReactiveX/RxPHP) - A reactive extension library.

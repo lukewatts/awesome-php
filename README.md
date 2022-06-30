@@ -463,6 +463,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Collections of middleware to be passed to a middleware dispatcher*
 
 * [Awesome PSR-15 Middlwares](https://github.com/middlewares/awesome-psr15-middlewares) - Collection of PSR15 Middlewares
+* [Branca Token Middleware](https://github.com/tuupola/branca-middleware) - PSR-7 and PSR-15 Branca token authentication middleware
 * [PSR-7 Middlewares](https://github.com/oscarotero/psr7-middlewares) - (DEPRECATED) Inspiring collection of handy PSR-7 middlewares
 * [PSR-15 Middlewares](https://github.com/middlewares/psr15-middlewares) - Inspiring collection of handy PSR-15 middlewares
 * [CSRF Middleware](https://github.com/zakirullin/csrf-middleware) - A PSR-15 middleware to automate CSRF-token verification process
